@@ -11,3 +11,4 @@ Premium dark navy/coral fitness app starter. Includes responsive dashboard, week
 
 ## Important
 Exercise demonstrations in this version are animated illustrations with written instructions, not filmed MP4 videos. They play inside the app and do not send users to YouTube or show YouTube ads. Filmed demonstrations can be added later using properly licensed MP4 files. App data is stored locally in the browser; export backups regularly. Google Fonts need internet; the app shell is cached for offline use after first load.
+Forgfit website deployment update 
