@@ -1,0 +1,16 @@
+{
+  "name": "ForgeFit \u2014 Personal Fitness Coach",
+  "short_name": "ForgeFit",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d19",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
